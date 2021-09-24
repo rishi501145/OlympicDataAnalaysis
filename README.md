@@ -1,1 +1,1 @@
-# OlympicDataAnalaysis
+# Olympic Data Analaysis
